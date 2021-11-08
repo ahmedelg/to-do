@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  transition: all 0.3s ease-in-out;
+}
+:root {
+  --mn-clr: rgba(0, 0, 0, 0.7);
+  --bx-sh: #fff;
+  --btn-bkg-1: #f5f5;
+  --brn-clr: whitesmoke;
+  --clr-1: #981010;
+  --tsk-option: #d4d4d4;
+}
+/* html{height:auto;} */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(../assets/imgs/app/code.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* .overlay{position: absolute;top:0;bottom:0;left:0;right:0;background-color:#f7484854;} */
